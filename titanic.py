@@ -7,6 +7,7 @@ import pandas as pd
 import seaborn as sns
 import argparse
 import os
+import seaborn as sns
 
 from dotenv import load_dotenv
 
